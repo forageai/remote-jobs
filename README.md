@@ -294,6 +294,7 @@ Name | Website | Region
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
 [fohandboh](/company-profiles/fohandboh.md) | https://fohandboh.com/ | Worldwide
 [folotop](/company-profiles/folotop.md) | https://folotop.com/ | Worldwide
+.[Forage](/company-profiles/forage.ai) | https://forage.ai/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
